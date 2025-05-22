@@ -47,3 +47,9 @@ Kết hợp học lý thuyết với thực hành đều đặn sẽ giúp bạn
 
 Truy cập trang [https://roadmap.sh/](https://roadmap.sh/) – nơi tổng hợp các lộ trình học tập cho từng lĩnh vực trong ngành phần mềm như Frontend, Backend, DevOps, AI, v.v.
 Chọn lĩnh vực bạn quan tâm để định hướng việc học một cách rõ ràng và có mục tiêu.
+
+### Kết nối với người trong ngành
+
+Mạng lưới quan hệ đóng vai trò rất quan trọng. Bạn có biết rằng có tới 50% công việc được tuyển dụng trước khi thông tin được đăng công khai?
+
+Hãy chủ động kết nối với những người đang làm việc trong lĩnh vực bạn quan tâm. Việc xây dựng mối quan hệ đúng cách sẽ giúp bạn tiếp cận nhiều cơ hội hơn, thay vì phải gửi CV đại trà đến hàng trăm nơi một cách thiếu hiệu quả.
