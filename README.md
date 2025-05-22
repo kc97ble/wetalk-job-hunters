@@ -1,13 +1,14 @@
-# WeTalk Job Hunters - Chia sẻ về lĩnh vực Công nghệ thông tin
+# Talk&Share - Job Hunters - Lĩnh vực Công nghệ thông tin
 
-Repo này nhằm để chuẩn bị tư liệu cho buổi chia sẻ tại sự kiện Talk & Share với chủ đề Job Hunters.
+## Giới thiệu
 
-Mục tiêu của sự kiện lần này là giúp khán giả có góc nhìn đầy đủ và thực tế hơn đối với ngành công nghệ thông tin, giúp các bạn đưa ra những quyết định chọn ngành, chọn nghề phù hợp nhất với mình.
+Trang này tổng hợp các nội dung liên quan đến lĩnh vực Công nghệ thông tin nhằm chuẩn bị cho sự kiện Talk&Share sắp tới do WeTalk tổ chức.
 
-Cấu trúc thư mục:
-- nội-dung/: Thư mục này là sản phẩm mà chúng ta cần làm. Hãy coi đó như thư mục "output".
-- tham-khảo/: Thư mục này chứa các tài liệu liên quan. Hãy coi đó như thư mục "input".
+## Mục lục
 
-Tất cả các file trong này đều là file .md.
-
-Mục tiêu cuối cùng của việc này là nhằm giúp các bạn của WeTalk tạo ra một tệp slide để trình bày.
+1. [Giới thiệu](nội-dung/01-giới-thiệu.md)
+2. [Yêu cầu](nội-dung/02-yêu-cầu.md)
+3. [Lợi ích](nội-dung/03-lợi-ích.md)
+4. [Khó khăn](nội-dung/04-khó-khăn.md)
+5. [Thực trạng](nội-dung/05-thực-trạng.md)
+6. [Lời khuyên](nội-dung/06-lời-khuyên.md)
